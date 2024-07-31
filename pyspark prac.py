@@ -42,4 +42,4 @@ display(df_total_pat)
 
 # COMMAND ----------
 
-
+df_total_pat.createOrReplaceTempView('tot_pat')
